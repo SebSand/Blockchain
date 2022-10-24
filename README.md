@@ -14,5 +14,5 @@ The following steps were taken:
 
 They acheived the following results:
 
-![PyChain](Resources/PyChain.png)
-![PyChain2](Resources/PyChain2.png)
+![PyChain](Python_Blockchain/Resources/PyChain.png)
+![PyChain2](Python_Blockchain/Resources/PyChain2.png)
